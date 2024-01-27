@@ -2,16 +2,16 @@
 
 A library management system is software that is designed to manage all the functions of a library.
 
-Admin App 
+# Admin App 
 1. Admin will add the new books.
 
 ![image](https://github.com/khushpreet-007/library_management_admin_app/assets/75271300/2fb450cc-1aa5-4079-86cb-baea3294de42)
 
 ![image](https://github.com/khushpreet-007/library_management_admin_app/assets/75271300/dc0b5b58-d58b-420e-8dd9-a7fb6389e0eb)
 
-2. Authorize user;s
+2. Authorize users
 
-User App:
+# User App:
 1. LogIn to the system
 
 ![image](https://github.com/khushpreet-007/library_management_admin_app/assets/75271300/635563de-4646-4519-bdbe-f5a982849e92)
@@ -24,6 +24,7 @@ User App:
 
 3. Download the pdf
 
-
+Link for user Application:
+https://github.com/khushpreet-007/library_management/tree/master
 Language: Java, xml
 Database : Firebse
